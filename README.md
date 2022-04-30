@@ -1,4 +1,4 @@
-# mgbdis-symbol-GhidraBoy-Import
+# gb-symbol-GhidraBoy-Import
 Takes the symbol file generated from rgblink (any similarly formatted) and imports it into Ghidra for use with [GhidraBoy](https://github.com/Gekkio/GhidraBoy) extension
 
 Accepted Symbol format:
